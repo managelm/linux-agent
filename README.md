@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://www.managelm.com">Website</a> &middot;
   <a href="https://app.managelm.com">Cloud Portal</a> &middot;
-  <a href="https://app.managelm.com/docs">Documentation</a>
+  <a href="https://app.managelm.com/doc/">Documentation</a>
 </p>
 
 ---
