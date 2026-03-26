@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://app.managelm.com/managelm-logo.svg" alt="ManageLM" width="200">
+  <img src="https://www.managelm.com/assets/ManageLM.png" alt="ManageLM" width="200">
 </p>
 
 <h1 align="center">ManageLM Agent</h1>
@@ -111,5 +111,3 @@ managelm> restart nginx
 managelm> open port 8080
   [firewall] ✓ Opened 8080/tcp in firewalld.
 ```
-
-### Force a specific skill with `@`
