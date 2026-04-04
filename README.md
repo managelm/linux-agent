@@ -5,7 +5,7 @@
 <h1 align="center">ManageLM Agent</h1>
                                         
 <p align="center">
-  <strong>Manage Linux servers with natural language — from the cloud or directly on the machine.</strong>
+  <strong>Manage Linux & Windows servers with natural language — from the cloud or directly on the machine.</strong>
 </p>
 
 <p align="center">
