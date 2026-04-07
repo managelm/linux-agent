@@ -1,17 +1,25 @@
 <p align="center">
-  <img src="https://www.managelm.com/assets/ManageLM.png" alt="ManageLM" width="200">
+  <a href="https://www.managelm.com">
+    <img src="https://www.managelm.com/assets/ManageLM.png" alt="ManageLM" height="50">
+  </a>
 </p>
 
-<h1 align="center">ManageLM Agent</h1>
-                                        
+<h3 align="center">ManageLM Agent</h3>
+
 <p align="center">
-  <strong>Manage Linux & Windows servers with natural language — from the cloud or directly on the machine.</strong>
+  Manage Linux &amp; Windows servers with natural language — from the cloud or directly on the machine.
 </p>
 
 <p align="center">
-  <a href="https://www.managelm.com">Website</a> &middot;
-  <a href="https://app.managelm.com">Cloud Portal</a> &middot;
-  <a href="https://app.managelm.com/doc/">Documentation</a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-Apache--2.0-blue" alt="License"></a>
+  <a href="https://www.managelm.com"><img src="https://img.shields.io/badge/website-managelm.com-cyan" alt="Website"></a>
+  <a href="https://app.managelm.com/doc/"><img src="https://img.shields.io/badge/docs-documentation-green" alt="Docs"></a>
+  <img src="https://img.shields.io/badge/platform-linux%20%7C%20windows-lightgrey" alt="Platform">
+  <img src="https://img.shields.io/badge/python-3.9%2B-yellow" alt="Python">
+</p>
+
+<p align="center">
+  <img src="assets/portal.png" alt="ManageLM Portal — agent detail view with health monitoring, command history, and assigned skills" width="700">
 </p>
 
 ---
@@ -111,3 +119,32 @@ managelm> restart nginx
 managelm> open port 8080
   [firewall] ✓ Opened 8080/tcp in firewalld.
 ```
+
+## Fleet Management
+
+<p align="center">
+  <img src="assets/infrastructure.png" alt="ManageLM Infrastructure — monitoring dashboard with server health, CPU, memory, disk, and network metrics" width="700">
+</p>
+
+Manage your entire fleet from the [cloud portal](https://app.managelm.com) or through AI integrations. Monitor health, run tasks across groups, trigger security audits, and track changes — all from a single pane.
+
+## Integrations
+
+The agent works with your favorite AI tools:
+
+- [Claude Code Extension](https://github.com/managelm/claude-extension) — MCP integration for Claude
+- [VS Code Extension](https://github.com/managelm/vscode-extension) — `@managelm` in Copilot Chat
+- [ChatGPT Plugin](https://github.com/managelm/openai-gpt) — manage servers from ChatGPT
+- [n8n Plugin](https://github.com/managelm/n8n-plugin) — infrastructure automation workflows
+- [Slack Plugin](https://github.com/managelm/slack-plugin) — notifications and commands in Slack
+- [OpenClaw Plugin](https://github.com/managelm/openclaw-plugin) — OpenClaw integration
+
+## Links
+
+- [Website](https://www.managelm.com)
+- [Cloud Portal](https://app.managelm.com)
+- [Documentation](https://app.managelm.com/doc/)
+
+## License
+
+[Apache 2.0](LICENSE)
